@@ -1,0 +1,1 @@
+mongod --bindip=localhost:4000 --dbpath=/~/Projects/mongo-data --nojournal --rest "$@"
